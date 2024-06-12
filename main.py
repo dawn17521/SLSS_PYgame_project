@@ -157,10 +157,9 @@ bird_group = pygame.sprite.Group()
 flappy = Bird(100, int(screen_height / 2))
 
 bird_group.add(flappy)
-
+button_img = pygame.transform.scale(button_img,(50,50))
 #create restart button instance
 button = Button(screen_width // 2 - 50, screen_height // 2 - 100, button_img)
-
 
 #program start
 

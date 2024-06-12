@@ -1,3 +1,6 @@
+(used CHATgpt)
+
+
 # Flappy Bird - README
 
 Welcome to Flappy Bird! This file will guide you through the steps to properly set up and run the game on your computer.
